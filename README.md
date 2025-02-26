@@ -12,7 +12,7 @@ Dynamic and detail-oriented Data Analyst with a strong foundation in SQL, Python
 - 🌱 Currently learning advanced machine learning techniques and deepening expertise in AI.
 - 📊 Experienced in handling large datasets and deriving actionable insights.
 - 💼 Proven track record in delivering successful projects within tight deadlines.
-- 🌍 Based in Bhiwani, Haryana, India.
+- 🌍 Based in Dehradun, Uttarakhand, India.
 - 📂 Explore all my projects [here](https://github.com/PiyushKumar00?tab=repositories) 
 - 📧 You can reach me at [piyushmandhan4@gmail.com](mailto:piyushmandhan4@gmail.com) | [LinkedIn](https://www.linkedin.com/in/piyush-mandhan/) 
 <br />
